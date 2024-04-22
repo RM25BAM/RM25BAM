@@ -20,10 +20,18 @@ Here are some ideas to get you started:
 </h1>
 <p>
   - ✨ I’m currently learning to be a fullstack developer
-  - 👯 I’m looking to collaborate on projects
-  - 🌟 How to reach me: npiedrabuena01@manhattan.edu
-  - 🔮 Fun fact: 🌙
+</p>
 <p>
+  - 👯 I’m looking to collaborate on projects
+</p>
+ <p>
+  - 🌟 How to reach me: npiedrabuena01@manhattan.edu
+</p>
+<p>
+  - 🔮 Fun fact: 🌙
+</p>
+ 
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
