@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>
+<h1>
+  About me!
+</h1>
+<p>
   - ✨ I’m currently learning to be a fullstack developer
   - 👯 I’m looking to collaborate on projects
   - 🌟 How to reach me: npiedrabuena01@manhattan.edu
   - 🔮 Fun fact: 🌙
-</h2>
+<p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
