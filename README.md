@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left" size="80">
   <img src="Header_gif/magic line.gif"/>
 </p>
 <h1>Hey!🔮</h1>
