@@ -1,4 +1,7 @@
-### Welcome !🔮
+<p align="center">
+  <img src="Header_gif/magic line.gif"/>
+</p>
+<h1>Hey!🔮</h1>
 ![till](./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif)
 <!--
 **RM25BAM/RM25BAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
