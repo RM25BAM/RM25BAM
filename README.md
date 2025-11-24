@@ -18,22 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>
-  About me!
-</h1>
-<p>
-  - ✨ I’m currently learning to be a frontend developer
-</p>
-<p>
-  - 👯 I’m looking to collaborate on projects
-</p>
- <p>
-  - 🌟 How to reach me: npiedrabuena01@manhattan.edu
-</p>
-<p>
-  - 🔮 Fun fact: 🌙
-
-</p>
 <!--
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RM25BAM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
