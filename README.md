@@ -1,5 +1,5 @@
 <h1>Hey!🔮</h1>
-<div styles="display: flex">
+<div style="display: flex, flex-direction: row, gap: 10px">
   <div align="center">
   <img src='./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <p>
