@@ -1,7 +1,6 @@
 <h1>Hey!🔮</h1>
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between">
   <img src='./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <p>
   I'm RM25BAM, a Design/Frontend engineer based in NYC.<br />
   I love to design based on what I imagine from drawing to product.<br />
