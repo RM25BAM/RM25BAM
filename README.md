@@ -1,12 +1,11 @@
 <h1>Hey!🔮</h1>
-<div style="display: flex, flex-direction: row, gap: 10px">
-  <div align="center">
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
   <img src='./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-    </div>
+
 <p>
-  I'm RM25BAM, a Design/Frontend engineer based in NYC.
-  I love to design based on what I imagine from notes -> product design. 
-  My main tech stack: react, typescript, tailwind and framer motion.
+  I'm RM25BAM, a Design/Frontend engineer based in NYC.<br />
+  I love to design based on what I imagine from drawing to product.<br />
+  My main tech stack: React, Typescript, Tailwindcss and Framer Motion.<br />
 <p>
 
 </div>
