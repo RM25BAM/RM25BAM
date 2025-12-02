@@ -2,22 +2,15 @@
 <div align="center">
   <img src='./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </div>
-
+<h3>
+  I'm RM25BAM, a Design/Frontend engineer based in NYC.
+  I love to design based on what I imagine from notes -> product design. 
+  My main tech stack: react, typescript, tailwind and framer motion.
+</h3>
 <!--
 [till](./witch_gif/The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20GIF%20-%20The%20Journey%20Of%20Elaina%20Majo%20No%20Tabitabi%20Elaina%20-%20Discover%20&%20Share%20GIFs.gif)
 **RM25BAM/RM25BAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RM25BAM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -26,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <br clear="both">
 -->
-<img src="https://raw.githubusercontent.com/RM25BAM/RM25BAM/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/RM25BAM/RM25BAM/output/snake.svg" alt="Snake animation" />
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -43,4 +36,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
+</p> -->
